@@ -122,7 +122,7 @@ const BentoPage = () => {
                     </div>
 
                     {/* Box 7 */}
-                    <div className="bg-white col-span-4 row-span-1 md:row-span-2 md:order-7 rounded-xl shadow-lg">
+                    <div className="bg-white col-span-4 md:col-span-2 row-span-1 md:row-span-2 md:order-7 rounded-xl shadow-lg">
                         <div className="w-full h-full flex flex-col items-center justify-center p-2 md:p-3 text-center">
                             <h1 className="text-2xl md:text-4xl font-medium">
                                 {">56%"}
