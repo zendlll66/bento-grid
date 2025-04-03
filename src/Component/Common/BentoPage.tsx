@@ -36,8 +36,10 @@ const BentoPage = () => {
                                 <p className="text-black not-italic">Create and <br /> schedule<br /> content</p>
                                 <p className="text-[#7651DC]">quicker.</p>
                             </div>
-                            <img
-                                src="assets/images/illustration-create-post.webp"
+                            <Image
+                                src="/assets/images/illustration-create-post.webp"
+                                width={200}
+                                height={200}
                                 alt=""
                                 className="mt-2 md:mt-3 w-full h-auto max-h-[80px] md:max-h-[120px] object-contain"
                             />
